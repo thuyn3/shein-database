@@ -7,7 +7,7 @@ The project includes database design, table creation, data insertion, primary an
 
 The project demonstrates how a relational database can be used to structure e-commerce data and support common business queries.
 
-2. 🗂 Project & Structure
+## 🗂 Project & Structure
 ```text
 └── README.md                                      # this file
 ├── SQLcode.sql                                    # database creation, data insertion, and SQL queries
