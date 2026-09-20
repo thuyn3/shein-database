@@ -9,10 +9,13 @@ The project demonstrates how a relational database can be used to structure e-co
 
 2. 🗂 Project & Structure
 ```text
-├── images/                                        # screenshots of database tables and queries
-├── SQLcode.sql                                    # database creation, data insertion, and SQL queries  
-├── Thu Thao Huynh - SHEIN Report Paper.pdf        # detailed project report
 └── README.md                                      # this file
+├── SQLcode.sql                                    # database creation, data insertion, and SQL queries
+├── Thu Thao Huynh - SHEIN Report Paper.pdf        # detailed project report
+├── database-tables-1.png                          # screenshots of database tables 
+├── database-tables-2.png                          # screenshot of database tables
+├── database-tables-3.png                          # screenshot of database tables
+├── relational-model.png                           # screenshot of relational model
 ```
 ## 🛠 Methodology
 The database was developed using a relational database approach.
